@@ -2,7 +2,7 @@
 
 I'm a new software developer and have been learning CSS, HTML, and Javascript through freecodecamp.org for a couple of years until I found Tech Elevator. Now I'm starting a cohort in July to learn Java and I couldn't be more excited.
 
-prnouns: He/Him
+pronouns: He/Him
 
 Fun fact: I worked in global logistics and freight forwarding for almost a decade before starting my path to become a software developer.
 
