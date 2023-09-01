@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a new software developer and have been learning CSS, HTML, and Javascript through freecodecamp.org for a couple of years until I found Tech Elevator. Now I'm starting a cohort in July to learn Java and I couldn't be more excited.
+I'm a new software developer and have been learning CSS, HTML, and Javascript through freecodecamp.org for a couple of years until I found Tech Elevator. Now I'm about to complete their 3 month bootcamp for Java and I couldn't be more excited.
 
 pronouns: He/Him
 
